@@ -1,7 +1,7 @@
 # OwlMark: bubble-sheet marking made easy
 
----
 _This repository is a fork of the original capstone project selected by the client, it is held publicly here for the sake of posterity._
+
 ---
 
 - [Project Description](#project-description)
